@@ -1,0 +1,6 @@
+{
+  "name": "اكس عربي",
+  "description": "تطبيق متكامل وبخدمات متطورة لتحميل مقاطع الفيديو والصور من تطبيق اكس (تويتر سابقا) بأعلى جودة وخيارات متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
